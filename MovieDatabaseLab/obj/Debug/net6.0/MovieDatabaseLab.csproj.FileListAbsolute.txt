@@ -1,0 +1,15 @@
+C:\Grand Circus Code\MovieDatabaseLab\MovieDatabaseLab\bin\Debug\net6.0\MovieDatabaseLab.exe
+C:\Grand Circus Code\MovieDatabaseLab\MovieDatabaseLab\bin\Debug\net6.0\MovieDatabaseLab.deps.json
+C:\Grand Circus Code\MovieDatabaseLab\MovieDatabaseLab\bin\Debug\net6.0\MovieDatabaseLab.runtimeconfig.json
+C:\Grand Circus Code\MovieDatabaseLab\MovieDatabaseLab\bin\Debug\net6.0\MovieDatabaseLab.dll
+C:\Grand Circus Code\MovieDatabaseLab\MovieDatabaseLab\bin\Debug\net6.0\MovieDatabaseLab.pdb
+C:\Grand Circus Code\MovieDatabaseLab\MovieDatabaseLab\obj\Debug\net6.0\MovieDatabaseLab.csproj.AssemblyReference.cache
+C:\Grand Circus Code\MovieDatabaseLab\MovieDatabaseLab\obj\Debug\net6.0\MovieDatabaseLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Grand Circus Code\MovieDatabaseLab\MovieDatabaseLab\obj\Debug\net6.0\MovieDatabaseLab.AssemblyInfoInputs.cache
+C:\Grand Circus Code\MovieDatabaseLab\MovieDatabaseLab\obj\Debug\net6.0\MovieDatabaseLab.AssemblyInfo.cs
+C:\Grand Circus Code\MovieDatabaseLab\MovieDatabaseLab\obj\Debug\net6.0\MovieDatabaseLab.csproj.CoreCompileInputs.cache
+C:\Grand Circus Code\MovieDatabaseLab\MovieDatabaseLab\obj\Debug\net6.0\MovieDatabaseLab.dll
+C:\Grand Circus Code\MovieDatabaseLab\MovieDatabaseLab\obj\Debug\net6.0\refint\MovieDatabaseLab.dll
+C:\Grand Circus Code\MovieDatabaseLab\MovieDatabaseLab\obj\Debug\net6.0\MovieDatabaseLab.pdb
+C:\Grand Circus Code\MovieDatabaseLab\MovieDatabaseLab\obj\Debug\net6.0\MovieDatabaseLab.genruntimeconfig.cache
+C:\Grand Circus Code\MovieDatabaseLab\MovieDatabaseLab\obj\Debug\net6.0\ref\MovieDatabaseLab.dll

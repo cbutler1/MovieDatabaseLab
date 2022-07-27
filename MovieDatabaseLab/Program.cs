@@ -47,10 +47,10 @@ do
             
         }
         else Console.WriteLine("Please enter a valid category");
-        return;
+        break;
     } while (inputCategory == true);
 
-
+    //should have put this in a different location, should have readline after invalid category prompt
     Console.WriteLine("Would you like to enter another category? y/n to continue:");
     yOrNo = Console.ReadLine().ToLower();
 } while (yOrNo.Equals("y"));
